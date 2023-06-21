@@ -5,7 +5,7 @@ Repo for the codeforces polygon problem staggered-rooks
 Contrary to popular belief, the problem is **not** inspired from the $n$ queens problem. This is inspired by one of the many applications of *Bell numbers* - a combinatorial problem solving tool, which first encountered application in counting the *number of partitions* of a given set with cardinality $n$. The answer, by definition, is $B(n)$, the $n$-th Bell number.
 
 ### The solution
-The provided solution is simply an iterative way to find the $n$-th Bell number (demonstrated on [this]([https://en.wikipedia.org/wiki/Bell_number](https://en.wikipedia.org/wiki/Bell_number#Triangle_scheme_for_calculations) wikipedia page under `Triangle Scheme for Calculations`).
+The provided solution is simply an iterative way to find the $n$-th Bell number (demonstrated on [this](https://en.wikipedia.org/wiki/Bell_number#Triangle_scheme_for_calculations) wikipedia page under `Triangle Scheme for Calculations`).
 
 How the Bell numbers solve the problem is demonstrated below.
 
