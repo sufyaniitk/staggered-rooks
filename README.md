@@ -1,6 +1,9 @@
 # staggered-rooks
 Repo for the codeforces polygon problem staggered-rooks
 
+### Polygon link
+The problem can be found [here](https://polygon.codeforces.com/p9n8hnd/msufyan/staggered-rooks)
+
 ### Inpiration for the problem
 Contrary to popular belief, the problem is **not** inspired from the $n$ queens problem. This is inspired by one of the many applications of *Bell numbers* - a combinatorial problem solving tool, which first encountered application in counting the *number of partitions* of a given set with cardinality $n$. The answer, by definition, is $B(n)$, the $n$-th Bell number.
 
