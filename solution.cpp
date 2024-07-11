@@ -7,7 +7,7 @@ int main() {
 
     ans[0][0] = 1; // initialise
     for (int i = 1; i < n+1; i++) {
-        ans[i][0] = ans[i-1][i-1]; // copy last value from previous row into first valuw of current row
+        ans[i][0] = ans[i-1][i-1]; // copy last value from previous row into first value of current row
         for (int j = 1; j <= i; j++) {
             ans[i][j] = ans[i][j-1] + ans[i-1][j-1]; // do the stepwise addition
         }
